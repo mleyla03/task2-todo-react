@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,500&display=swap');
+
+
+body{
+  background-color: palevioletred;
+}
+
+.forms input{
+  width: 30%;
+  outline: none;
+  height: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-style: italic;
+}
+.forms button{
+  background-color: purple;
+  border: none;
+  color: white;
+  height: 25px;
+  width: 50px;
+  margin-left: 20px;
+}
+.forms{
+  width: 100%;
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text{
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif;
+ 
+}
+.input input{
+  width: 20%; 
+  font-style: italic;
+}
+.bir{
+  display: flex;
+  width: 50%;
+  align-items: center;
+  justify-content: space-evenly;
+  font-family: 'Poppins', sans-serif;
+  font-style: italic;
+}
+.center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ones{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+ 
+
+}
+.ones i{
+  background-color: green;
+  width: 25px;
+  height: 25px;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.one{
+  background-color: rgb(171, 14, 14);
+  width: 25px;
+  height: 25px;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  color: white;
+}
